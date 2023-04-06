@@ -218,6 +218,7 @@ body.header-open {
     height: 100%;
     background-color: inherit;
     content: "";
+    display: none;
   }
 
   a,
@@ -241,6 +242,7 @@ body.header-open {
     align-items: center;
     border: none;
     height: 68px;
+    background: inherit;
   }
 }
 
