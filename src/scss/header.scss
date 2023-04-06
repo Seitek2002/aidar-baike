@@ -207,7 +207,7 @@ body.header-open {
   padding: 20px 0;
   transition: 0.7s;
   color: inherit;
-  background: inherit;
+  background: content-box;
   border-bottom: 1px solid #252525;
 
   &::after {
