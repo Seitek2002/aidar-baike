@@ -1,0 +1,205 @@
+@import "variables";
+
+.trade-like-pro-main-flex-h1-heading {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.3;
+  display: block;
+  margin-bottom: 40px;
+
+  @media (max-width: 1200px) {
+    font-size: 50px;
+  }
+  @media (max-width: 1050px) {
+    font-size: 46px;
+  }
+  @media (max-width: 1100px) {
+    text-align: center;
+  }
+  @media (max-width: 900px) {
+    margin-bottom: 20px;
+    order: 5;
+  }
+  @media (max-width: 700px) {
+    font-size: 32px;
+    margin-bottom: 15px;
+  }
+}
+
+.make-your-grow {
+  font-weight: 700;
+  font-size: 56px;
+  z-index: 5;
+  line-height: 1.3;
+  margin-bottom: 16px;
+  @media (max-width: 1200px) {
+    font-size: 50px;
+    margin-bottom: 12px;
+  }
+  @media (max-width: 1050px) {
+    font-size: 46px;
+    margin-bottom: 10px;
+  }
+  @media (max-width: 700px) {
+    font-size: 32px;
+    margin-bottom: 15px;
+  }
+}
+
+.wrapper {
+  overflow: hidden;
+  padding-top: 4%;
+  color: inherit;
+  @media (max-width: 1200px){
+    margin-top: 2%;
+  }
+}
+
+.header-logo-pc, .nav-list-item a {
+  outline: none;
+}
+
+.trade-now-text {
+  font-weight: 700;
+  font-size: 64px;
+  color: inherit;
+  max-width: 564px;
+  line-height: 1.3;
+  margin-bottom: 24px;
+  @media (max-width: 1300px) {
+    font-size: 54px;
+  }
+  @media (max-width: 1180px) {
+    font-size: 48px;
+  }
+  @media (max-width: 992px) {
+    font-size: 38px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 750px) {
+    max-width: 100%;
+    margin: 0 auto 15px;
+    text-align: center;
+    font-weight: 500;
+  }
+}
+
+.h3-heading {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.3;
+  margin-bottom: 8px;
+
+  @media (max-width: 768px) {
+    font-size: 20px;
+  }
+}
+
+.h6-heading {
+  margin: 0 0 15px;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+
+  @media (max-width: 1200px) {
+    margin: 0 0 10px;
+  }
+}
+
+.text {
+  &-big {
+    font-size: 24px;
+
+    @media (max-width: 992px) {
+      font-size: 16px;
+    }
+  }
+
+  &-lightgrey {
+    color: #5B616E;
+  }
+
+  &-darkblue {
+    color: $dark-blue-color;
+  }
+}
+
+.btn {
+  padding: 0 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 4px;
+  height: 70px;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  transition: .7s;
+
+  &-blue-fill {
+    background-color: #0080FF;
+    border: 1px solid #0080FF;
+    color: white;
+
+    &:hover {
+      background-color: white;
+      color: $blue-color;
+    }
+  }
+
+  &-white-fill {
+    background-color: #FFFFFF;
+    box-shadow: 0 15px 32px rgba(255, 255, 255, 0.25);
+    border-radius: 4px;
+    margin-left: 25px;
+    transition: all 0.7s;
+    color: #0052FF;
+    border: 1px solid #fff;
+
+    @media (max-width: 780px) {
+      width: fit-content;
+      margin-left: 0;
+      margin-top: 25px;
+    }
+
+    &:hover {
+      background-color: #0066FF;
+      box-shadow: 0 10px 24px rgba(0, 82, 255, 0.25);
+      color: #fff;
+      border: 1px solid #fff;
+    }
+  }
+
+  &-white {
+    padding: 0 40px;
+    border: 1px solid #FFFFFF;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+
+    &:hover {
+      border-color: $blue-color;
+      color: $blue-color;
+    }
+  }
+
+  &-group {
+    .btn + .btn {
+      margin-left: 25px;
+    }
+  }
+}
+
+.profit-badge {
+  font-size: 12px;
+  color: #06BC5A;
+  line-height: 16px;
+
+  &.decrease {
+    background-color: transparent;
+    color: #FF1800;
+  }
+}

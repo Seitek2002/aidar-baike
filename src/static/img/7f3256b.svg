@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>步骤二</title>
+    <g id="3.16一键买币" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="买币" transform="translate(-396.000000, -394.000000)">
+            <g id="编组-18" transform="translate(360.000000, 213.000000)">
+                <g id="credit-card" transform="translate(36.000000, 181.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="34" height="34"></rect>
+                    <circle id="椭圆形" fill="#357AFF" cx="11" cy="14" r="2"></circle>
+                    <path d="M14,21 C14,19.3431458 12.6568542,18 11,18 C9.34314575,18 8,19.3431458 8,21" id="路径" stroke="#357AFF" stroke-width="2" stroke-linecap="round"></path>
+                    <rect id="矩形" stroke="#212833" stroke-width="2" x="3" y="6" width="28" height="22" rx="2"></rect>
+                    <rect id="矩形" fill="#357AFF" x="17" y="19" width="11" height="2" rx="1"></rect>
+                    <path d="M18,14 L23,14 C23.5522847,14 24,14.4477153 24,15 C24,15.5522847 23.5522847,16 23,16 L18,16 C17.4477153,16 17,15.5522847 17,15 C17,14.4477153 17.4477153,14 18,14 Z" id="矩形备份-3" fill="#357AFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

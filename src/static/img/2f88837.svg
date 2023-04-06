@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="941px" height="371px" viewBox="0 0 941 371" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 11</title>
+    <defs>
+        <polygon id="path-1" points="0 0 0 96.6626718 129.748513 96.6626718"></polygon>
+        <circle id="path-3" cx="173.474974" cy="173.474974" r="173.474974"></circle>
+        <filter x="-8.5%" y="-7.9%" width="117.0%" height="117.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.635294118   0 0 0 0 0.705882353  0 0 0 0.347556374 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="活动-积分" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="活动-使用" transform="translate(-879.000000, -118.000000)">
+            <g id="编组-7" transform="translate(0.000000, 99.000000)">
+                <g id="编组-11" transform="translate(879.000000, 19.000000)">
+                    <circle id="椭圆形备份" fill="#E4E4E4" opacity="0.399605887" cx="290.5" cy="480.072436" r="290.5"></circle>
+                    <circle id="椭圆形" fill="#1DA2B4" cx="218" cy="153" r="18"></circle>
+                    <circle id="椭圆形备份-5" fill="#1DA2B4" cx="227.5" cy="308.5" r="6.5"></circle>
+                    <circle id="椭圆形备份-4" fill="#1DA2B4" cx="215" cy="195" r="3"></circle>
+                    <circle id="椭圆形备份-6" fill="#CFB47C" cx="187.5" cy="189.5" r="6.5"></circle>
+                    <g id="路径-14" transform="translate(577.698802, 275.235108)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#1DA2B4" xlink:href="#path-1"></use>
+                        <path d="M29.8163652,5.26489248 C36.5800761,46.9888143 32.0574551,80.3523144 16.2485019,105.355393 C0.439548818,130.358472 -8.87800777,121.812267 -11.7041678,79.7167783 L-4.4941828e-13,-2.91827583 L29.8163652,5.26489248 Z" fill="#0B717F" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="矩形备份-4" transform="translate(246.997356, 135.050053)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="蒙版">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <path d="M197.02035,134.731197 C200.335236,134.731197 203.501719,136.112725 205.762455,138.545477 L253.729906,190.162721 C258.010223,194.768758 258.010223,201.912386 253.729906,206.518423 L205.762455,258.135668 C203.501719,260.568419 200.335236,261.949947 197.02035,261.949947 L175.565939,261.949947 C172.857169,261.949947 171.452173,258.708437 173.299557,256.720543 L215.729293,211.062528 L192.281918,211.062528 L168.440144,185.618616 L215.729293,185.618616 L168.440144,134.731197 L197.02035,134.731197 Z M172.376461,84.9499471 C175.085225,84.9499471 176.490217,88.1914249 174.643241,90.1791895 L132.213602,135.837366 L155.660924,135.837366 L179.502644,161.281278 L132.213602,161.281278 L179.502644,212.168697 L150.922502,212.168697 C147.60722,212.168697 144.440745,210.787169 142.180014,208.354418 L94.2129786,156.737173 C89.9325266,152.131136 89.9325347,144.987508 94.2129866,140.381471 L142.180014,88.7641781 C144.440745,86.3313939 147.60722,84.9499471 150.922502,84.9499471 L172.376461,84.9499471 Z" id="形状结合" fill="#1DA2B4" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                        <rect fill="#909090" opacity="0.302888416" mask="url(#mask-4)" x="212.984667" y="67.4141699" width="198.503701" height="36"></rect>
+                        <rect id="矩形备份-5" fill="#909090" opacity="0.302888416" mask="url(#mask-4)" x="-168.015333" y="179.41417" width="198.503701" height="31"></rect>
+                        <rect id="矩形备份-7" fill="#909090" opacity="0.0644654774" mask="url(#mask-4)" x="2.98466689" y="224.41417" width="340" height="31"></rect>
+                        <path d="M-8.60492286,-15.0500529 C83.9669551,-15.0500529 159.186565,59.2438383 160.6817,151.459414 L160.704383,154.259253 L120.704383,154.259253 C120.704383,83.5578508 63.9627202,26.1091743 -6.46655705,24.9672709 L-8.60492286,24.9499471 L-8.60492286,-15.0500529 Z" id="路径备份" fill="#DEDEDE" fill-rule="nonzero" mask="url(#mask-4)" transform="translate(76.049730, 69.604600) rotate(-90.000000) translate(-76.049730, -69.604600) "></path>
+                    </g>
+                    <circle id="椭圆形" stroke-opacity="0.14" stroke="#1DA2B4" stroke-width="4" cx="420.47233" cy="308.525026" r="122.280578"></circle>
+                    <path d="M227.392433,107 C319.964312,107 395.183921,181.293891 396.679056,273.509467 L396.701739,276.309306 L356.701739,276.309306 C356.701739,205.607904 299.960077,148.159227 229.530799,147.017324 L227.392433,147 L227.392433,107 Z" id="路径" fill="#1DA2B4" fill-rule="nonzero" transform="translate(312.047086, 191.654653) rotate(-90.000000) translate(-312.047086, -191.654653) "></path>
+                    <path d="M415,0 C590.510571,0 733.122311,140.856635 735.956995,315.691678 L736,321 L660.162467,321 C660.162467,186.954503 552.583775,78.0353559 419.05421,75.8703775 L415,75.8375327 L415,0 Z" id="路径备份-2" fill="#1DA2B4" fill-rule="nonzero" opacity="0.0898132324"></path>
+                    <circle id="椭圆形备份-2" fill="#E4E4E4" opacity="0.25999814" cx="854.5" cy="407.5" r="86.5"></circle>
+                    <rect id="矩形" fill="#CFB47C" x="471" y="191" width="199" height="36"></rect>
+                    <rect id="矩形备份" fill="#CFB47C" x="136" y="324" width="128" height="30"></rect>
+                    <rect id="矩形备份-2" fill="#CFB47C" x="92" y="324" width="31" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

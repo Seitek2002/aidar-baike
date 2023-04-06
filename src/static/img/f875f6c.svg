@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>步骤三</title>
+    <g id="3.16一键买币" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="买币" transform="translate(-396.000000, -500.000000)">
+            <g id="编组-18" transform="translate(360.000000, 213.000000)">
+                <g id="钱包" transform="translate(36.000000, 287.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="34" height="34"></rect>
+                    <rect id="矩形" stroke="#212833" stroke-width="2" x="5" y="5" width="25" height="24" rx="2"></rect>
+                    <path d="M16.5,12 L22,12 L22,12 L22,17 L16.5,17 C15.1192881,17 14,15.8807119 14,14.5 C14,13.1192881 15.1192881,12 16.5,12 Z" id="矩形" stroke="#3679FF" stroke-width="2" transform="translate(18.000000, 14.500000) scale(-1, 1) translate(-18.000000, -14.500000) "></path>
+                    <path d="M16.5,17.0083896 L22,17.0083896 L22,17.0083896 L22,22.0083896 L16.5,22.0083896 C15.1192881,22.0083896 14,20.8891014 14,19.5083896 C14,18.1276777 15.1192881,17.0083896 16.5,17.0083896 Z" id="矩形备份-4" stroke="#3679FF" stroke-width="2" transform="translate(18.000000, 19.508390) scale(-1, 1) translate(-18.000000, -19.508390) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

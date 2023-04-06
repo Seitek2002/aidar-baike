@@ -1,0 +1,36 @@
+.toggle {
+    background: #0052ff;
+    border-radius: 36px;
+    width: 60px;
+    height: 32px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 16px;
+
+    &-btn {
+        width: 28px;
+        height: 28px;
+        background: #ffffff;
+        border-radius: 100%;
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        transition: .3s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &-checkbox:checked ~ .toggle-wrapper .toggle-btn {
+        left: 50%;
+    }
+
+    &-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
